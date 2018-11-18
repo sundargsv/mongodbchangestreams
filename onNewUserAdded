@@ -1,0 +1,168 @@
+﻿{
+  "raw": {
+    "resumeToken": {
+      "_data": {
+        "type": 0,
+        "data": "glvxcyYAAAABRmRfaWQAZFvxcyb3XzsX3Pko4gBaEAR0t0E+4WlM/4Ux69+IbQh0BA==",
+        "bsonType": "BINARY",
+        "array": false,
+        "null": false,
+        "number": false,
+        "double": false,
+        "boolean": false,
+        "binary": true,
+        "document": false,
+        "string": false,
+        "int32": false,
+        "int64": false,
+        "decimal128": false,
+        "objectId": false,
+        "dbpointer": false,
+        "timestamp": false,
+        "dateTime": false,
+        "symbol": false,
+        "regularExpression": false,
+        "javaScript": false,
+        "javaScriptWithScope": false
+      }
+    },
+    "namespaceDocument": {
+      "db": {
+        "value": "opus-poc",
+        "bsonType": "STRING",
+        "array": false,
+        "null": false,
+        "number": false,
+        "double": false,
+        "boolean": false,
+        "binary": false,
+        "document": false,
+        "string": true,
+        "int32": false,
+        "int64": false,
+        "decimal128": false,
+        "objectId": false,
+        "dbpointer": false,
+        "timestamp": false,
+        "dateTime": false,
+        "symbol": false,
+        "regularExpression": false,
+        "javaScript": false,
+        "javaScriptWithScope": false
+      },
+      "coll": {
+        "value": "user",
+        "bsonType": "STRING",
+        "array": false,
+        "null": false,
+        "number": false,
+        "double": false,
+        "boolean": false,
+        "binary": false,
+        "document": false,
+        "string": true,
+        "int32": false,
+        "int64": false,
+        "decimal128": false,
+        "objectId": false,
+        "dbpointer": false,
+        "timestamp": false,
+        "dateTime": false,
+        "symbol": false,
+        "regularExpression": false,
+        "javaScript": false,
+        "javaScriptWithScope": false
+      }
+    },
+    "fullDocument": {
+      "_id": {
+        "timestamp": 1542550310,
+        "machineIdentifier": 16211771,
+        "processIdentifier": 6108,
+        "counter": 16328930,
+        "time": 1542550310000,
+        "date": 1542550310000,
+        "timeSecond": 1542550310
+      },
+      "name": "newww",
+      "address": "address"
+    },
+    "documentKey": {
+      "_id": {
+        "value": {
+          "timestamp": 1542550310,
+          "machineIdentifier": 16211771,
+          "processIdentifier": 6108,
+          "counter": 16328930,
+          "time": 1542550310000,
+          "date": 1542550310000,
+          "timeSecond": 1542550310
+        },
+        "bsonType": "OBJECT_ID",
+        "array": false,
+        "null": false,
+        "number": false,
+        "double": false,
+        "boolean": false,
+        "binary": false,
+        "document": false,
+        "string": false,
+        "int32": false,
+        "int64": false,
+        "decimal128": false,
+        "objectId": true,
+        "dbpointer": false,
+        "timestamp": false,
+        "dateTime": false,
+        "symbol": false,
+        "regularExpression": false,
+        "javaScript": false,
+        "javaScriptWithScope": false
+      }
+    },
+    "clusterTime": null,
+    "operationType": "INSERT",
+    "updateDescription": null,
+    "databaseName": "opus-poc",
+    "namespace": {
+      "databaseName": "opus-poc",
+      "collectionName": "user",
+      "fullName": "opus-poc.user"
+    }
+  },
+  "collectionName": "user",
+  "databaseName": "opus-poc",
+  "body": {
+    "id": "5bf17326f75f3b17dcf928e2",
+    "name": "newww",
+    "address": "address"
+  },
+  "operationType": "INSERT",
+  "timestamp": null,
+  "resumeToken": {
+    "_data": {
+      "type": 0,
+      "data": "glvxcyYAAAABRmRfaWQAZFvxcyb3XzsX3Pko4gBaEAR0t0E+4WlM/4Ux69+IbQh0BA==",
+      "bsonType": "BINARY",
+      "array": false,
+      "null": false,
+      "number": false,
+      "double": false,
+      "boolean": false,
+      "binary": true,
+      "document": false,
+      "string": false,
+      "int32": false,
+      "int64": false,
+      "decimal128": false,
+      "objectId": false,
+      "dbpointer": false,
+      "timestamp": false,
+      "dateTime": false,
+      "symbol": false,
+      "regularExpression": false,
+      "javaScript": false,
+      "javaScriptWithScope": false
+    }
+  }
+}
